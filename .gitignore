@@ -1,0 +1,7 @@
+# gitignore
+# untracked patterns
+*.pyc
+*#*#
+*~
+*.DS_Store
+twitterCreds.sh
